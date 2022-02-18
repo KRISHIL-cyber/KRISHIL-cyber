@@ -11,7 +11,7 @@ var tech_stack = {
       programming_languages : [ C, Java, Python, C#, Javascript, ],
       technologies : [ "Web Development","Machine Learning(Beginner)", ],
       frameworks : [ Django, ASP.NET, ASP.NET_core, React, NodeJs, ExpressJs, ReactNative ],
-      tools : [ "Visual Studio Code", "Visual Studio", "PyCharm" ],
+      tools : [ "Visual Studio Code", "Visual Studio", "PyCharm", "JupyterNotebook" ],
 }
 ```
 
