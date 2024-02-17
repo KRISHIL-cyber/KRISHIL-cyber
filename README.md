@@ -1,14 +1,15 @@
 ## Hello, I am Krishil Patel👋
 
-* I'm pursuing B Tech in Computer engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/). 
-* My main interests are Machine Learning & competitive programming.
+* I'm completed B Tech in Computer engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/).
+* I worked as ASE at HHAeXchange for 1.2 years. 
+* My main interests are Web development & Machine Learning.
 
 
 ## Skills
 
 ```javascript
 var tech_stack = {
-      programming_languages : [ C, Java, Python, C#, Javascript, ],
+      programming_languages : [ C, Java, Python, C#, Javascript, R, Typescript],
       technologies : [ "Web Development","Machine Learning(Beginner)", ],
       frameworks : [ Django, ASP.NET, ASP.NET_core, React, NodeJs, ExpressJs, ReactNative ],
       tools : [ "Visual Studio Code", "Visual Studio", "PyCharm", "JupyterNotebook" ],
