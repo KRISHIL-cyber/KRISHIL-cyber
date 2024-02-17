@@ -1,7 +1,7 @@
 ## Hello, I am Krishil Patel👋
 
 * I'm completed B Tech in Computer engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/).
-* I worked as ASE at HHAeXchange for 1.2 years. 
+* I worked as ASE at [HHAeXchange](https://www.hhaexchange.com/) for 1.2 years. 
 * My main interests are Web development & Machine Learning.
 
 
