@@ -1,8 +1,10 @@
 ## Hello, I am Krishil Patel👋
 
-* I'm completed B Tech in Computer engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/).
-* I worked as ASE at [HHAeXchange](https://www.hhaexchange.com/) for 1.2 years. 
-* My main interests are Web development & Machine Learning.
+* I completed BTech in Computer engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/).
+* I am a Software Engineer with 2.6 years of experience.<br>
+      * **Software Engineer** : [GlobalLogic](https://www.globallogic.com/) (Feb24-Present).<br>
+      * **Associate Software Engineer** : [HHAeXchange](https://www.hhaexchange.com/) (Dec22-Feb24). 
+* My main interests are Web development, MicroServices & Machine Learning.
 
 
 ## Skills
@@ -27,5 +29,4 @@ var tech_stack = {
 ## Connect With Me
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishil005@gmail.com)&nbsp;
 [![KRISHIL-cyber](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KRISHIL-cyber) &nbsp;
-[![Krishil Patell](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishil-patel-62730a1a5/)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishil005/)&nbsp;
+[![Krishil Patell](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishil-patel/)&nbsp;
